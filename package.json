@@ -1,0 +1,21 @@
+{
+  "name": "githubactions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sample.js",
+  "scripts": {
+    "start":"node sample.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"node sample.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/challaBhagyalakshmi/GithubActions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/challaBhagyalakshmi/GithubActions/issues"
+  },
+  "homepage": "https://github.com/challaBhagyalakshmi/GithubActions#readme"
+}
